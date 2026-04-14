@@ -71,7 +71,7 @@ export default function Hero() {
                             zIndex: 1
                         }}>
                             <img
-                                src="https://lh3.googleusercontent.com/aida/ADBb0uii_-36DNrbdPF6A7HMwkRBEwIEjD3Bi5iwHmkUn51v5TPEO1G2GW7th_KqTR2YiXQdWi1KBdStK1A8xGUhJtK4OGeFWCSNvsSvUaCcxD0o4msNajP8z7Ti7uibz6ET0g10q7_t9emzisTnGpVrUnUMG898b3Etq4H8J7A3eln2-VUQf5G_3-YiEG-aTTUNyX4gnv4bI4aPg7YGEceGS5NjhghZtZ4BvAUSwYLGvySeT3zv7UGdJRkF5hQXXbY0Bf-T5KJu_Bs"
+                                src="/hero-storefront.jpg"
                                 alt="Storefront"
                                 style={{ width: '100%', height: 'auto', display: 'block' }}
                             />
