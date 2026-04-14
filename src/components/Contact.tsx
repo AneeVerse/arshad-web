@@ -59,7 +59,7 @@ export default function Contact() {
                                 </div>
                                 <div>
                                     <div style={{ fontSize: 'var(--label-md)', fontWeight: 700, opacity: 0.6, marginBottom: '0.25rem' }}>WORKING HOURS</div>
-                                    <div style={{ fontSize: '1.25rem', fontWeight: 700 }}>Mon - Sat: 9:00 AM - 8:00 PM</div>
+                                    <div style={{ fontSize: '1.25rem', fontWeight: 700 }}>Monday - Sunday: 7:00 AM - 10:00 PM</div>
                                 </div>
                             </div>
                         </div>
