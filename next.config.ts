@@ -13,6 +13,7 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'greatchoice.co.in' },
       { protocol: 'https', hostname: 'www.gadgets360.com' },
       { protocol: 'https', hostname: 'lh3.googleusercontent.com' },
+      { protocol: 'https', hostname: 'ik.imagekit.io' },
     ],
   },
 };

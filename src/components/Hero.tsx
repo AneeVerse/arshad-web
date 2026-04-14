@@ -71,7 +71,7 @@ export default function Hero() {
                             zIndex: 1
                         }}>
                             <img
-                                src="/hero-storefront.jpg"
+                                src="https://ik.imagekit.io/aghmftdmm/store_frunt.jpg"
                                 alt="Storefront"
                                 style={{ width: '100%', height: 'auto', display: 'block' }}
                             />
