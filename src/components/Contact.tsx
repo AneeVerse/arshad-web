@@ -37,10 +37,7 @@ export default function Contact() {
                                 }}>
                                     📍
                                 </div>
-                                <div>
-                                    <div style={{ fontSize: 'var(--label-md)', fontWeight: 700, opacity: 0.6, marginBottom: '0.25rem' }}>LOCATION</div>
-                                    <div style={{ fontSize: '1.25rem', fontWeight: 700 }}>Lalgadh Karnamiya, Bettiah, Bihar</div>
-                                </div>
+                                <div style={{ fontSize: '1.25rem', fontWeight: 700 }}>Arshad Communication, Karnameya Lalgarh ward no-08, mufassil bettiah west champaran Bihar, pin - 845438</div>
                             </div>
 
                             <div style={{ display: 'flex', gap: '1.5rem' }}>

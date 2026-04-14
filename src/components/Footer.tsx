@@ -28,7 +28,7 @@ export default function Footer() {
                         <div style={{ fontSize: 'var(--body-md)', lineHeight: 2, color: 'var(--on-surface-variant)' }}>
                             <div>+91 9123224234</div>
                             <div>+91 9867312769</div>
-                            <div style={{ marginTop: '1rem' }}>Karnameya ward no-08, Lalgarh, West Champaran, Bihar 845438</div>
+                            <div style={{ marginTop: '1rem' }}>Arshad Communication, Karnameya Lalgarh ward no-08, mufassil bettiah west champaran Bihar, pin - 845438</div>
                         </div>
                     </div>
 
